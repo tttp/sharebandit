@@ -16,7 +16,7 @@ Example: If your sharebandit instance is at `https://share.example.com` and the 
 
 2.2 On any share links to your page, embed the javascript file
 
-    <script src="{{YOUR_SHAREBANDIT_URL}}<b>/js/</b>{{URL_FOR_PAGE WITHOUT PROTOCOL}}" ></script>
+    <script src="{{YOUR_SHAREBANDIT_URL}}/js/{{URL_FOR_PAGE WITHOUT PROTOCOL}}" ></script>
 
 Example (same case as above):
 
